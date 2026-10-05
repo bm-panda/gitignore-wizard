@@ -43,4 +43,5 @@
 * 右键启动 / 快捷键启动
   * 在文件管理器空白处右键 → 选择「.gitignore生成」，或按下为该脚本设置的全局快捷键
 
-
+## 鸣谢
+本项目 Fork 自 [foweh/gitignore-wizard](https://github.com/foweh/gitignore-wizard)，感谢原作者的开源与付出。

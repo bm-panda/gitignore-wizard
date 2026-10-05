@@ -1,0 +1,22 @@
+[bmscriptsbox]
+
+[bmscriptsbox.info]
+id = "73257907-07d0-4454-a4bd-d777a659a87a"
+name = ".gitignore生成"
+desc = "交互式 .gitignore 生成器 — 点选你的项目类型，一键生成 .gitignore"
+version = "1.0.0"
+icon="./src/logo.png"
+
+[bmscriptsbox.runtime]
+language = "html"
+language_version = ">=0.0.0"
+entry = "index.html"
+terminal = "never"
+
+[bmscriptsbox.triggers.context_menu]
+enabled = true
+targets = ["background"]
+
+[bmscriptsbox.triggers.shortcut]
+enabled = true
+input_type = ""
